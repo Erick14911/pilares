@@ -1,3 +1,7 @@
+"""
+Calculadora, realiza las operaciones suma, resta, 
+multiplicacion y divicion con numeros flotantes
+"""
 import sys
 def suma(a,b):
     c=a+b
